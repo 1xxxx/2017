@@ -1,5 +1,6 @@
 
-The downloaded files are free to use for personal or commercial projects, attribution is appreciated but not required.
+	The downloaded files are free to use for personal or commercial projects, attribution is appreciated but not required.
+
 
 
 Licensing :
@@ -16,9 +17,12 @@ Licensing :
 	- You are not allowed to claim credit or ownership for any of the files found on pixelhint.com
 
 
+
 Credits :
 	- Pictures by saraspano.blogspot.it
 	- Raleway font
+	
+	
 		
 
 If you have any additional questions that may not have been answered above, please don't hesitate to contact us at contact@pixelhint.com
